@@ -2,7 +2,6 @@ dist
 .eslintrc.cjs
 .prettierrc
 eslint.config.js
-package.json
 package-lock.json
 README.md
 tsconfig.json
